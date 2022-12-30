@@ -4,15 +4,19 @@ body {
 }
 
 .nav{
+    display: flex;
+    height: 60px;
+    align-items: center;
     padding: 20px 36px;
     background-color: #282D35;
 }
 
 .nav--title{
+    margin-right: auto;
+    margin-left: auto;
     font-family: 'Inter';
     font-weight: 200;
     color:rgb(255, 255, 255);
-    text-align: center;
 }
 
 .card {
