@@ -14,5 +14,13 @@ export default[
         location: "https://www.google.com/maps/place/Dickwella+Beach/@5.9634684,80.6780673,14z/data=!4m5!3m4!1s0x3ae136416e91ccb9:0xf182b242bf116b98!8m2!3d5.9634688!4d80.6955769?hl=en",
         place: "Dickwella Beach" ,
         paragraph:"The Dickwella beach is primarily dominated by reefs, headland and sand bars which makes it the most appropriate place for swimming. Situated at a distance of 220 kms from colombo, Dickwella beach has housed the largest seated Buddha statue. This has made it the most visited place for all the Buddhist worshippers."
+    },
+    {
+        id:3 ,
+        img: "https://srilankawa.lk/wp-content/uploads/2021/12/Mount-Lavinia-Beach-image-1.jpg",
+        country:"Sri Lanka",
+        location:"https://www.google.com/maps?q=mount+lavinia+beach&source=lmns&bih=793&biw=1707&hl=en&sa=X&ved=2ahUKEwizvfqDmqH8AhXjjtgFHXOTANsQ_AUoAXoECAEQAQ",
+        place:"Mount Lavinia Beach",
+        paragraph:"123"
     }
 ]
