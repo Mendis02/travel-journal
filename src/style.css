@@ -56,3 +56,10 @@ body {
 .card--details > p {
     width: 600px;
 }
+
+.card--location > a{
+    font-size: 12px;
+    color:cadetblue;
+    margin-top: 20px;
+    margin-left: 20px;
+}
